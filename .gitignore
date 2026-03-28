@@ -1,0 +1,13 @@
+# Ignore data sets
+dataset/
+*.csv
+
+# Ignore outputs
+paper_outputs/
+*.png
+*.html
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
