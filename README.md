@@ -29,6 +29,8 @@ Place the following files inside a `dataset/` directory:
 
 *(Note: The `config.py` allows fallback hardcoded directories, but adopting relative local `dataset/` folder formats promotes optimal execution.)*
 
+The data set is openly avaiable as ASHRAE Great Energy Predictor III dataset
+
 ## Usage
 
 Simply run `main.py` using Python 3:
